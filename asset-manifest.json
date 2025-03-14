@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/solarrechner/static/css/main.f85aa575.css",
-    "main.js": "/solarrechner/static/js/main.ae9886ba.js",
+    "main.js": "/solarrechner/static/js/main.a8370ae8.js",
     "static/js/198.8ffcb7c5.chunk.js": "/solarrechner/static/js/198.8ffcb7c5.chunk.js",
     "static/js/453.d05aa82c.chunk.js": "/solarrechner/static/js/453.d05aa82c.chunk.js",
     "static/media/header2.jpg": "/solarrechner/static/media/header2.973d488769f02a606ba6.jpg",
     "index.html": "/solarrechner/index.html",
     "main.f85aa575.css.map": "/solarrechner/static/css/main.f85aa575.css.map",
-    "main.ae9886ba.js.map": "/solarrechner/static/js/main.ae9886ba.js.map",
+    "main.a8370ae8.js.map": "/solarrechner/static/js/main.a8370ae8.js.map",
     "198.8ffcb7c5.chunk.js.map": "/solarrechner/static/js/198.8ffcb7c5.chunk.js.map",
     "453.d05aa82c.chunk.js.map": "/solarrechner/static/js/453.d05aa82c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f85aa575.css",
-    "static/js/main.ae9886ba.js"
+    "static/js/main.a8370ae8.js"
   ]
 }
