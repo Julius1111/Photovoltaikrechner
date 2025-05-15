@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Photovoltaikrechner/static/css/main.307fd7a2.css",
-    "main.js": "/Photovoltaikrechner/static/js/main.9533397f.js",
+    "main.js": "/Photovoltaikrechner/static/js/main.1428491a.js",
     "static/js/198.8ffcb7c5.chunk.js": "/Photovoltaikrechner/static/js/198.8ffcb7c5.chunk.js",
     "static/js/453.d05aa82c.chunk.js": "/Photovoltaikrechner/static/js/453.d05aa82c.chunk.js",
     "static/media/header2.jpg": "/Photovoltaikrechner/static/media/header2.973d488769f02a606ba6.jpg",
     "index.html": "/Photovoltaikrechner/index.html",
     "main.307fd7a2.css.map": "/Photovoltaikrechner/static/css/main.307fd7a2.css.map",
-    "main.9533397f.js.map": "/Photovoltaikrechner/static/js/main.9533397f.js.map",
+    "main.1428491a.js.map": "/Photovoltaikrechner/static/js/main.1428491a.js.map",
     "198.8ffcb7c5.chunk.js.map": "/Photovoltaikrechner/static/js/198.8ffcb7c5.chunk.js.map",
     "453.d05aa82c.chunk.js.map": "/Photovoltaikrechner/static/js/453.d05aa82c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.307fd7a2.css",
-    "static/js/main.9533397f.js"
+    "static/js/main.1428491a.js"
   ]
 }
